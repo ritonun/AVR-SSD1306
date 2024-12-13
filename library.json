@@ -1,0 +1,11 @@
+{
+    "name": "AVR SSD1306",
+    "version": "0.0.1",
+    "description": "AVR Library for SSD1306 display controller via I2C.",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/ritonun/AVR-SSD1306.git"
+    },
+    "homepage": "https://github.com/ritonun/AVR-SSD1306"
+}
